@@ -2,7 +2,7 @@
 
 **Sticking your context**
 
-🌐 [Website](https://4fo.kalba.dev) · 📦 [Download](https://github.com/kalba-lab/4Fo/releases/latest) · ✉️ [min@kalba.dev](mailto:min@kalba.dev)
+🌐 [Website](https://4fo.app) · 📦 [Download](https://github.com/kalba-lab/4Fo/releases/latest) · ✉️ [min@kalba.dev](mailto:min@kalba.dev)
 
 ## The problem
 
