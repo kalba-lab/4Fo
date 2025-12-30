@@ -85,4 +85,4 @@ Free to use
 
 ---
 
-📦 [Download](https://github.com/kalba-lab/4Fo/releases/latest) · ✉️ [min@kalba.dev](mailto:min@kalba.dev) · [Kalba Lab](https://kalba.dev)
+📦 [Download](https://github.com/kalba-lab/4Fo/releases/latest) · ✉️ [min@kalba.dev](mailto:min@kalba.dev?subject=4Fo) · [Kalba Lab](https://kalba.dev)
