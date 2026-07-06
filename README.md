@@ -4,7 +4,7 @@
 
 Stickers for your folders - text notes, voice memos, screenshots, links. Like messaging yourself about a folder.
 
-🌐 Website: [4fo.app](https://4fo.app)
+🌐 Website: [kalba.dev/apps/4Fo](https://kalba.dev/apps/4Fo/)
 
 ## Problem
 
